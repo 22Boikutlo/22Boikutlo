@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Boikutlo S Rampora</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">BSc Computer Information Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22boikutlo&label=Profile%20views&color=0e75b6&style=flat" alt="22boikutlo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=22boikutlo" alt="22boikutlo" /></a> </p>
 
-- 🔭 I’m currently working on **school application system**
 
 - 🌱 I’m currently learning **MERN Stack**
 
