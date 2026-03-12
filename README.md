@@ -6,11 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=22boikutlo" alt="22boikutlo" /></a> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **react, node, ASP.Net Core**
-
-- 📫 How to reach me **boikutlos@gmail.com**
+-  **boikutlos@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
