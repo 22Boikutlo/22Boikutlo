@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boikutlo S Rampora</h1>
-<h2> I am looking for careers in Software Development and Data Engineering.<h2>
+<h2> I am preparing myself for careers in Software Development and Data Engineering.<h2>
 <h3 align="center">I hold a BSc in Computer Information Systems degree</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22boikutlo&label=Profile%20views&color=0e75b6&style=flat" alt="22boikutlo" /> </p>
